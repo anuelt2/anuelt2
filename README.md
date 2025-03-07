@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emmanuel! <br/><a href="https://sites.google.com/view/emmanuelktettey/home?authuser=0">Fullstack Software Engineering Student (ALX-Holberton School)</a> <a href="https://www.linkedin.com/in/emmanuel-tettey-bb656628/"></a></h1>
+<h1>Hi, I'm Emmanuel! <br/><a href="https://sites.google.com/view/emmanuelktettey/home?authuser=0">Fullstack Software Engineering (ALX-Holberton)</a> <a href="https://www.linkedin.com/in/emmanuel-tettey-bb656628/"></a></h1>
 
 <h2> 🤳 Connect with me:</h2>
 
