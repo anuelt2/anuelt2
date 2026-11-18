@@ -1,4 +1,4 @@
-# Hi, I'm Emmanuel 👋
+# Hi, I'm Emmanuel
 
 **Software Engineer | Backend Engineering • Cloud Infrastructure • AI & Automation**
 
